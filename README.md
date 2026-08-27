@@ -61,4 +61,4 @@ Run all cells top-to-bottom. Outputs are written to `outputs/`.
 - Volume baseline uses 20 pre-event bars; may not capture time-of-day patterns.
 
 ## AI Tool Usage
-This analysis was developed with AI-assisted coding tools (Cascade). All code, assumptions, and interpretations are the author's responsibility.
+This analysis was developed with AI-assisted coding tools ChatGpt. All code, assumptions, and interpretations are the author's responsibility.
